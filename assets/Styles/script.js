@@ -1,15 +1,15 @@
-function followLinkResume(){
+function followLinkResume() {
     window.location.href = "http://127.0.0.1:5500/pages/resume.html"
 }
-function followLinkProjects(){
+function followLinkProjects() {
     window.location.href = "http://127.0.0.1:5500/pages/projects.html"
 
 }
-function followLinkContact(){
+function followLinkContact() {
     window.location.href = "http://127.0.0.1:5500/pages/contact.html"
 
 }
-function followLinkHome(){
+function followLinkHome() {
     window.location.href = "http://127.0.0.1:5500/Index.html"
 
 }
@@ -23,3 +23,4 @@ function contactMe() {
     console.log('Last Name:', lastName);
     console.log('Email:', email);
 }
+
