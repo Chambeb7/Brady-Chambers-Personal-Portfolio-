@@ -1,3 +1,20 @@
+function followLinkResume() {
+    window.location.href = "https://chambeb7.github.io/pages/resume.html"
+}
+function followLinkProjects() {
+    window.location.href = "https://chambeb7.github.io/pages/projects.html"
+
+}
+function followLinkContact() {
+    window.location.href = "https://chambeb7.github.io/pages/contact.html"
+
+}
+function followLinkHome() {
+    window.location.href = "https://chambeb7.github.io/"
+
+}
+
+
 
 
 
