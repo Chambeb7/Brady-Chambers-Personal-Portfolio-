@@ -1,16 +1,16 @@
 function followLinkResume() {
-    window.location.href = "https://chambeb7.github.io/pages/resume.html"
+    window.location.href = ""
 }
 function followLinkProjects() {
-    window.location.href = "https://chambeb7.github.io/pages/projects.html"
+    window.location.href = ""
 
 }
 function followLinkContact() {
-    window.location.href = "https://chambeb7.github.io/pages/contact.html"
+    window.location.href = ""
 
 }
 function followLinkHome() {
-    window.location.href = "https://chambeb7.github.io/"
+    window.location.href = "j"
 
 }
 
