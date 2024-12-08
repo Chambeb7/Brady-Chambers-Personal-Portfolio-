@@ -1,16 +1,16 @@
 function followLinkResume() {
-    window.location.href = "http://127.0.0.1:5500/pages/resume.html"
+    window.location.href = "../resume.html"
 }
 function followLinkProjects() {
-    window.location.href = "http://127.0.0.1:5500/pages/projects.html"
+    window.location.href = "../projects.html"
 
 }
 function followLinkContact() {
-    window.location.href = "http://127.0.0.1:5500/pages/contact.html"
+    window.location.href = "../contact.html"
 
 }
 function followLinkHome() {
-    window.location.href = "http://127.0.0.1:5500/Index.html"
+    window.location.href = "../index.html"
 
 }
 
